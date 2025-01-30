@@ -36,7 +36,7 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 |Data Structures and Algorithms|25500|Professor Henderson
 |Research Methods in Psychology|25620|Professor Tengler
 |Probability and Statistics|22913|Professor Simeonov
-|Abnormal Psychology|22913|Professor Cantu
+|Abnormal Psychology|22903|Professor Cantu
 
 
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
