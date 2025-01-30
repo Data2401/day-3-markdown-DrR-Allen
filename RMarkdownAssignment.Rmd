@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Rudolph Allen"
 date: "Data 2401"
 output: html_document
 ---
@@ -22,15 +22,41 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 
 1. Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
+### Wise Words
+
+>["If the lion doesn’t tell his story, the hunter will."] (https://africanfolder.com/african-proverbs-and-quotes-with-meanings/)
+
 2. Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
+
+### My Semester
+
+|**Class**|**Course Number**|**Professor**|
+|:--------|:-----------|:------------|
+|Data Science|22621|Professor Shoemaker
+|Data Structures and Algorithms|25500|Professor Henderson
+|Research Methods in Psychology|25620|Professor Tengler
+|Probability and Statistics|22913|Professor Simeonov
+|Abnormal Psychology|22913|Professor Cantu
+
 
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
 
+
 - A _subsubheading_ with the name of the artist or author;    
 - An example of their writing or lyrics (formatted in a *block of text*);   
-- A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
+- A _list_ of things they have written or performed (remember to use the formatting markup for a list!).  
 
+### I Recommend
 
+_Dr Frances Cress Welsing_
+
+```
+"Constantine l, the Roman Emperor … made Christian worship lawful in the beginnings of the white supremacy system, had the following words placed on the cross, “In Hoc Signo, Vinces” (meaning, “In this sign you will conquer”). … Currently, the majority membership of Christian churches is non-white, and all are held in control under the sign of the cross."-Page 67, “Symbolism of Christ"
+
+```
+* Symbolism of Christ
+* The Isis Papers
+* The Cress Theory of Color Confrontation
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
